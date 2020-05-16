@@ -17,6 +17,6 @@ Data Structures and Algorithms implemented in cpp
 
 ## Instructions
 
-- Code the algorithms as template which we can be used for future purpose to implment the same
+- Code the algorithms as template which can be used for future purpose to implment the same
 - Try to code as much abstract as possible
 - Do mention the parameters needed as comments
