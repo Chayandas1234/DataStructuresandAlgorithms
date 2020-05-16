@@ -1,15 +1,15 @@
-# C++ Data Structurea and Algorithms
-Data Structures and Algorithms implemented in c++
+# C++ Data Structures and Algorithms
+Data Structures and Algorithms implemented in C++
 
-# Follow the websites below to add any new data structures and algorithms
+## Follow the websites below to add any new data structures and algorithms
 
 - [Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ## Instructions
-- These are some crude directions to follow for now
-- Code the algorithms as template which can be used for future purpose to implment the same
+### These are some crude directions to follow for now :
+- Code the algorithms as template which can be used for future purpose to implement the same
 - Try to code as much generic as possible like the implementation can take any data type
 - Do mention the parameters needed as comments
 - Add a new directory for each implementation and make it self contained like all the nodes and files in one directory. For example if you implement stack with array then make a folder which states that. This way only copying a directory will give all the required files for a data structure or algorithm.
