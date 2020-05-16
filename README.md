@@ -1,6 +1,6 @@
 # DSA
 Data Structures and Algorithms implemented in cpp
-**Topics or Codes included in Repository**
+**Topics or Codes included till date**
 1) DFS
 2) BFS
 3) Dijakstra's Algorithm
@@ -14,3 +14,9 @@ Data Structures and Algorithms implemented in cpp
 1) Vector
 2) Stack
 3) Map
+
+##Instructions
+
+- Code the algorithms as template which we can be used for future purpose to implment the same
+- Try to code as much abstract as possible
+- Do mention the parameters needed as comments
