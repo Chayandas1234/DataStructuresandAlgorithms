@@ -15,7 +15,7 @@ Data Structures and Algorithms implemented in cpp
 2) Stack
 3) Map
 
-##Instructions
+## Instructions
 
 - Code the algorithms as template which we can be used for future purpose to implment the same
 - Try to code as much abstract as possible
