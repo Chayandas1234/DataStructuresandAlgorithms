@@ -20,7 +20,7 @@ How to contribute?
 
 Follow the steps given below,
 
-1. Fork, https://github.comImadarshsri/DataStructuresandAlgorithms/
+1. Fork, https://github.com/Imadarshsri/DataStructuresandAlgorithms/
 2. Execute, `git clone https://github.com/Imadarshsri/DataStructuresandAlgorithms/`
 3. Change your working directory to `../DataStructuresandAlgorithms`.
 4. Execute, `git remote add origin_user https://github.com/<your-github-username>/DataStructuresandAlgorithms/`
