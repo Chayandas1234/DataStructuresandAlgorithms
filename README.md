@@ -1,27 +1,38 @@
 # C++ Data Structures and Algorithms
-Data Structures and Algorithms implemented in C++
+This repository contains C++ based examples of many popular algorithms and data structures.
 
-## Follow the websites below to add any new data structures and algorithms
+Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
+
+### Follow the websites below to add any new data structure/algorithm
 
 - [Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
-## Instructions
-### These are some crude directions to follow for now :
-- Code the algorithms as template which can be used for future purpose to implement the same
-- Try to code as much generic as possible like the implementation can take any data type
-- Do mention the parameters needed as comments
-- Add a new directory for each implementation and make it self contained like all the nodes and files in one directory. For example if you implement stack with array then make a folder which states that. This way only copying a directory will give all the required files for a data structure or algorithm.
-- Make the file which has the actual code and make a main file which includes that file and is able to run it so that we can call it from anywhere. For example we make an implementation of stack then pushing and popping of elements has to be done from the main file but the implementation of the same will be in another file which will be called in main.
-- Write readable code and the documentaion of the same. [Just take a look at this](https://github.com/trekhleb/state-of-the-art-shitcode)
-- Lastly don't push to master directly rather send a pull request. Also after sending the pull request don't merge it yourself. Also once merged delete the branch and create a branch that resembels what you are doing(Don't name the branch after your name).
+# Implemented Data Structures
+* None
 
-## Contributing
+# Implemented Algorithms
+* None
 
-1. Fork it!
-2. Clone the forked repository to local system.
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Commit your changes: `git commit -am 'Add some feature'`.
-5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request :smile:
+How to contribute?
+------------------
+
+Follow the steps given below,
+
+1. Fork, https://github.comImadarshsri/DataStructuresandAlgorithms/
+2. Execute, `git clone https://github.com/Imadarshsri/DataStructuresandAlgorithms/`
+3. Change your working directory to `../DataStructuresandAlgorithms`.
+4. Execute, `git remote add origin_user https://github.com/<your-github-username>/DataStructuresandAlgorithms/`
+5. Execute, `git checkout -b <your-new-branch-for-working>`.
+6. Make changes to the code.
+7. Execute, `git add .`.
+8. Execute, `git commit -m "your-commit-message"`.
+9. Execute, `git push origin <your-current-branch>`.
+10. Make PR.
+
+That's it, 10 easy steps for your first contribution. For future contributions just follow steps 5 to 10. Make sure that before starting work, always checkout to master and pull the recent changes using the remote `origin` and then start following steps 5 to 10.
+
+See you soon with your first PR. :smile:
+
+**Please go through our [contribution guidelines](CONTRIBUTING.md) before you start working.**
