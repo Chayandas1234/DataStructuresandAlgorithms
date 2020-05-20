@@ -35,4 +35,4 @@ That's it, 10 easy steps for your first contribution. For future contributions j
 
 See you soon with your first PR. :smile:
 
-**Please go through our [contribution guidelines](https://github.com/Imadarshsri/DataStructuresandAlgorithms/CONTRIBUTING.md) before you start working.**
+**Please go through our [contribution guidelines](https://github.com/Imadarshsri/DataStructuresandAlgorithms/blob/master/CONTRIBUTING.md) before you start working.**
