@@ -70,7 +70,7 @@ This adds QuickSort Algorithm which return the concatenation of the
 quicksorted list of elements that are less than or equal to the pivot, the
 pivot, and the quicksorted list of elements that are greater than the pivot.
 
-Closes https://github.comImadarshsri/DataStructuresandAlgorithms/issues/2
+Closes https://github.com/Imadarshsri/DataStructuresandAlgorithms/issues/2
 ```
 
 Example 2:
