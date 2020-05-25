@@ -1,26 +1,28 @@
 # C++ Data Structures and Algorithms
+
 This repository contains C++ based examples of many popular algorithms and data structures.
 
 Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
-### Follow the websites below to add any new data structure/algorithm
+## Follow the websites below to add any new data structure/algorithm
 
 - [Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 - [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
-# Implemented Data Structures
-* None
+## Implemented Data Structures
 
-# Implemented Algorithms
-* None
+- None
 
-How to contribute?
-------------------
+## Implemented Algorithms
 
-Follow the steps given below,
+- None
 
-1. Fork, https://github.com/Imadarshsri/DataStructuresandAlgorithms/
+## Want to contribute
+
+### Follow the steps given below
+
+1. Fork, <https://github.com/Imadarshsri/DataStructuresandAlgorithms/>
 2. Execute, `git clone https://github.com/Imadarshsri/DataStructuresandAlgorithms/`
 3. Change your working directory to `../DataStructuresandAlgorithms`.
 4. Execute, `git remote add origin_user https://github.com/<your-github-username>/DataStructuresandAlgorithms/`
