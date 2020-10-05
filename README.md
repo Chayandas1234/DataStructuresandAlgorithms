@@ -19,7 +19,7 @@ Each algorithm and data structure has its own separate README with related expla
 - None
 
 ## After learning Data Structures and Algorithms, One should Start participating in online contest and do competitative programming.
-reference on how to get started with competitative programming:http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html     
+Reference on how to get started with competitative programming:http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html     
 
 ## Want to contribute
 
